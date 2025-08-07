@@ -31,7 +31,7 @@ Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyildirimm&show_icons=true&langs_count=20&layout=compact)](https://github.com/gyildirimm/github-readme-stats)
 
-✍Check my recent post on Medium🌸
+✍Check my recent post on Medium:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@goktugyildirim/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@goktugyildirim/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@goktugyildirim/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@goktugyildirim/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@goktugyildirim/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@goktugyildirim/2" alt="Recent Article 2"> 
